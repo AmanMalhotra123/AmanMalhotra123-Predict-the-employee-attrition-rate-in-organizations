@@ -1,8 +1,9 @@
 ### This Competition was organised by www.hackerearth.com from 20 June 2020 to 30 June 2020.
-#### Problem statement
-### I Secured 6th rank in this competition. Leaderboard Link -> 
+
+### I have Secured 6th rank in this competition. Leaderboard Link -> 
 ### https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-employee-attrition-rate/leaderboard/
 
+#### Problem statement
 
 Employees are the most important part of an organization. Successful employees meet deadlines, make sales, and build the brand through positive customer interactions.
 

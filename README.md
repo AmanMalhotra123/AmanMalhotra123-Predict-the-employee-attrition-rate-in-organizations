@@ -5,6 +5,5 @@
 
 #### Problem statement Link-> https://www.hackerearth.com/problem/machine-learning/predict-the-employee-attrition-rate-in-organizations-1d700a97/
 
-![Screenshot (415)](https://user-images.githubusercontent.com/61687068/91149986-667d4980-e6d9-11ea-9f88-384899845685.png)
 
 

@@ -1,4 +1,4 @@
-### This Competition was organised by www.hackerearth.com from 20 June 2020 to 30 June 2020.
+### This Competition was organised by www.hackerearth.com from 10 June 2020 to 30 June 2020.
 
 ### I have Secured 6th rank in this competition. Leaderboard Link -> 
 ### https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-employee-attrition-rate/leaderboard/
